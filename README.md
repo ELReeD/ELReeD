@@ -1,6 +1,1 @@
-
-
-- 👋 Hi, I’m Kazimov Eldar @ELReeD
-- 👀 I’m interested in c#
-- 🌱 I’m currently learning Microservice Architecture
-- 📫 How to reach me eldar.kazimov.1997@gmail.com
+Hi, I’m Kazimov Eldar @ELReeD  ,and I'm a software developer  My experience is primarily with C# and ASP.NET and related technologies, as well Cloud infrastructure on Azure , I’m currently learning Microservice Architecture ,How to reach me eldar.kazimov.1997@gmail.com
